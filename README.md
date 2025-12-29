@@ -1,4 +1,4 @@
-# 🖨️ Portafolio de Diseño 3D – Santiago Baeza
+# Diseño 3D – Santiago Baeza
 
 ¡Bienvenido/a a mi repositorio de proyectos 3D!  
 Este espacio está dedicado a compartir y documentar mis trabajos relacionados con el **diseño para impresión 3D**, enfocados principalmente en soluciones funcionales para automóviles, electrónica, hogar y prototipado.
