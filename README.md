@@ -38,4 +38,4 @@ Mi intención es aplicar estos conocimientos tanto a proyectos personales como a
 
 ---
 
-> 🧩 Estos espacios estan en contruccion y se actualizan de forma frecuente.
+> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
