@@ -1,3 +1,4 @@
+[⬅️ Volver a "Diseño y Modelado"](https://github.com/SantiagoBaeza/Dise-o-y-Modelado/blob/main/README.md)
 # Diseño 3D – Santiago Baeza
 
 ¡Bienvenido/a a mi repositorio de proyectos 3D!  
@@ -8,7 +9,7 @@ Cada proyecto se encuentra en su propio repositorio individual, con modelos `.ST
 
 ---
 
-## 📂 Proyectos disponibles
+## Proyectos disponibles
 
 ### 🔘 Guarnición de seguro – Fiat 147
 Embellecedor funcional para el seguro de puerta interior del Fiat 147. Primer proyecto completo realizado de forma autónoma, desde el modelado hasta la instalación.  
