@@ -1,4 +1,4 @@
-[⬅️ Volver a "Diseño y Modelado"](https://github.com/SantiagoBaeza/Dise-o-y-Modelado/blob/main/README.md)
+[⬅️ Volver a "Diseño y Modelado"](https://github.com/SantiagoBaeza/Dise-o-y-Modelado/tree/main)
 # Diseño 3D – Santiago Baeza
  
 Este espacio está dedicado a compartir y documentar mis trabajos relacionados con el **diseño para impresión 3D**, enfocados principalmente en soluciones funcionales para automóviles, electrónica, hogar y prototipado. 
