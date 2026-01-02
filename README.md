@@ -1,41 +1,34 @@
 [⬅️ Volver a "Diseño y Modelado"](https://github.com/SantiagoBaeza/Dise-o-y-Modelado/tree/main)
-# Diseño 3D – Santiago Baeza
- 
-Este espacio está dedicado a compartir y documentar mis trabajos relacionados con el **diseño para impresión 3D**, enfocados principalmente en soluciones funcionales para automóviles, electrónica, hogar y prototipado. 
-Cada proyecto se encuentra en su propio repositorio individual, con modelos `.STL`, archivos fuente, documentación técnica y fotos del resultado impreso.
+
+# Recopilación de diseños 3D (Fusion 360)
+
+Este repositorio contiene un listado organizado de **modelos 3D funcionales** realizados con **Fusion 360**.  
+Incluye gabinetes, soportes y piezas para electrónica o automatización, con archivos `.stl`, `.step` y renders del diseño.
 
 ---
 
-## Proyectos disponibles
-
-### Guarnición de seguro – Fiat 147
-Embellecedor funcional para el seguro de puerta interior del Fiat 147. Primer proyecto completo realizado de forma autónoma, desde el modelado hasta la instalación.  
-🔗 [Ver repositorio del proyecto](https://github.com/SantiagoBaeza/fiat147-seguro-3d/tree/main)
-
-### Soporte magnético para herramientas (en desarrollo)
-Diseño modular de soportes magnéticos para organizar herramientas pequeñas sobre superficies metálicas.  
-🔗 _Próximamente_
-
-### Clip de retención para cableado automotriz (en desarrollo)  
-Pieza de sujeción adaptable para fijar mazos de cables en interiores de vehículos sin perforaciones ni adhesivos.  
-🔗 _Próximamente_
+## 📘 Índice de Proyectos
 
 ---
 
-## Herramientas utilizadas
+### 00. Guarnición de seguro – Fiat 147
+- 📅 Fecha: Enero 2026  
+- 🔗 [Ver repositorio del proyecto](https://github.com/SantiagoBaeza/fiat147-seguro-3d/tree/main)  
+- 🛠️ Tecnologías: Fusion 360, diseño 3D, impresión 3D  
+- 📄 Descripción: Embellecedor funcional para el seguro de puerta interior del Fiat 147. Primer proyecto completo realizado de forma autónoma, desde el modelado hasta la instalación.
 
-- **Modelado CAD**: Fusion 360, FreeCAD (próximamente)
-- **Medición técnica**: Calibrador / pie de rey
-- **Impresión 3D**: FDM – PLA, PETG, TPU
-- **Tolerancias**: Ensambles a presión, ajustes funcionales, elementos de retención
-
----
-
-## Objetivos
-
-Este espacio busca servir como **registro y catálogo** de desarrollos en diseño 3D.  
-Mi intención es aplicar estos conocimientos tanto a proyectos personales como a soluciones reales dentro del mundo técnico, mezclando electrónica, mecánica y fabricación rápida.
+### 01. ...
+- 📅 Fecha: ...  
+- 🔗 [En construcción](enlace_aca)  
+- 🛠️ Tecnologías: Fusion 360, diseño 3D, impresión 3D  
+- 📄 Descripción: ...
 
 ---
 
-> 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
+## Objetivo
+Este repositorio funciona como índice de proyectos de **diseño 3D funcional** realizados con **Fusion 360**.  
+Cada sección enlaza a repositorios específicos donde se encuentra el modelo, documentación técnica y archivos listos para imprimir o modificar.
+
+---
+
+> 🧩 Estos espacios están en construcción y se actualizan de forma frecuente.
